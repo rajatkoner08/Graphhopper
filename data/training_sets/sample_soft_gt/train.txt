@@ -1,0 +1,185 @@
+1591776	06456572	What is the color of the device that is to the right of the computer mouse?	black
+2318747	12230613	Who is wearing shorts?	boy
+2318747	12230619	Who is catching a frisbee?	boy
+1591776	06456630	What kind of device isn't large?	laptop
+729	121021540	Do the people seem to be skiing or riding?	riding
+2833	01291906	What color is the bicycle which is to the right of the boy?	blue
+2833	01291679	What is the woman wearing?	skirt
+2318747	12230733	Is the hair curly or straight?	curly
+498164	00854337	What animal is to the right of the monitor?	penguin
+498164	00854335	What is the name of the animal to the right of the monitor?	penguin
+2315460	11236791	Is the bus to the right or to the left of the woman?	right
+2315460	11236795	Are there buses to the left of the man on the right?	yes
+498164	00854220	Does the penguin have a different color than the monitor?	yes
+2318747	12230614	Who is wearing the shorts?	boy
+2318747	12230714	Is the color of the shirt green?	no
+498164	00854351	What is the piece of furniture that the penguin is on?	desk
+2833	01291849	Who is wearing the shorts?	boy
+498164	00854399	What device is sitting on the desk?	computer
+498164	00854489	Which side is the keyboard on?	right
+1159775	08205717	What color is the striped shirt?	white
+1591776	06456650	Which kind of device is on the wall?	monitor
+729	121021521	Does that water have blue color?	no
+713294	14529373	Are there people to the left of the silver car?	no
+1159775	08205739	What color is the cap?	green
+1159775	08205733	On which side is the person?	right
+498164	00854397	What is sitting on the desk?	computer
+2318747	12230548	Are there both frisbees and hammers in the image?	no
+286073	15470987	What color is the train?	blue
+713294	14529310	What color is the vehicle in the top part of the picture?	silver
+2318747	12230608	Who is wearing a shoe?	boy
+2318747	12230602	Is the boy playing baseball?	no
+2319013	07290823	Are there both a desk and a cup in this photo?	no
+2833	01291889	Are there any bicycles that are not yellow?	yes
+1159325	19100564	Do you see either any keyboards or mouse pads?	yes
+1159775	08205681	Are there both bottles and plates in this picture?	no
+1159775	08205685	Is there a plate in the picture that is black?	yes
+2319013	07290722	Is the toilet brush in the bottom part of the image?	no
+2315460	11236859	Is there a woman to the right of the man that is in the bottom of the picture?	no
+2318602	13752437	Is the sky clear and blue?	yes
+2833	01291805	What is the color of the shirt that the boy is wearing?	green
+2319013	07290798	Does the lid look silver?	no
+1591776	06456355	Do you see keyboards or computer mice that are not black?	no
+1592859	02997530	Does the vehicle have blue color?	no
+2315460	11236911	Does the trashcan that is to the left of the woman have orange color?	yes
+1159775	08205771	What kind of food is in the bowl?	soup
+1159775	08205770	What is the food in the bowl?	soup
+2315460	11236732	Are there buses that are dirty?	yes
+1159775	08205667	Who is sitting?	people
+1159775	08205661	Are the people on the right side?	yes
+498164	00854208	What do both the desk and the penguin have in common?	color
+1159775	08205596	Is the silver bowl in the bottom part or in the top of the image?	bottom
+2318602	13752454	Is the traffic signal on the right or on the left?	left
+2318747	12230513	What is the building that is not small made of?	concrete
+2318747	12230514	What is the tower made of?	concrete
+1591776	06456375	What device is to the right of the man that wears a jacket?	computer mouse
+1592859	02997512	Which side of the photo is the white vehicle on?	left
+2318747	12230457	Behind what kind of vehicle is the house?	car
+1159775	08205643	What color is the beverage in the bottom of the image?	red
+2318747	12230633	Who is wearing socks?	boy
+2315460	11236678	Where is the man to the right of the bus walking?	jeans
+2315460	11236679	Is the man to the right of the bus walking in the dark jeans?	yes
+1592859	02997570	On which side is the chair?	left
+1592859	02997574	What is the item of furniture to the right of the white vehicle?	chair
+498021	03789392	What color do you think the vest is?	white
+498164	00854422	Are there both desks and lamps in the image?	no
+1592859	02997419	Is the color of the scarf different than the vehicle?	no
+286073	15471021	Are there round windows?	no
+2315460	11236658	What color is the shirt the man is wearing?	white
+2315460	11236655	Are there cars or trucks?	no
+2833	01291739	Is the girl to the right or to the left of the person on the road?	right
+498164	00854440	What kind of furniture is this?	desk
+498164	00854445	How is the piece of furniture that is white called?	desk
+498164	00854447	What is this, a bed or a desk?	desk
+2318252	16181228	Are these animals of different species?	no
+1159775	08205601	What color is the bowl?	silver
+1591776	06456520	What device is not open, the laptop or the monitor?	monitor
+1591776	06456525	Is this a television or a laptop?	laptop
+2315899	001587	Which side is the racket on?	right
+2318747	12230578	What is the color of the frisbee?	blue
+2318747	12230640	What is he reaching for?	frisbee
+729	121021647	Which side of the photo is the short fence on?	left
+2318602	13752378	Does the street sign have a different color than the poster?	no
+1591776	06456530	Is the device that is to the right of the mouse open and silver?	no
+713294	14529438	Is the guy to the left of a bottle?	no
+2315899	001652	What is the man holding?	racket
+1592859	02997455	Is the man to the right of an orange?	no
+1592859	02997450	What is the man wearing?	scarf
+1591776	06456500	Are there both a computer mouse and a laptop in the image?	yes
+498164	00854456	Do you see either any brown nightstand or desk in the image?	no
+2318747	12230663	Is he to the left of the vehicle that is in front of the house?	yes
+2318747	12230669	Is the boy to the left or to the right of the vehicle that is in front of the house?	left
+1591776	06456627	Which kind of device is large, the laptop or the monitor?	monitor
+2318602	13752390	Does the sky have a different color than the poster?	yes
+2833	01291918	What is the bicycle on?	pole
+2833	01291916	What is on the pole?	bicycle
+2833	01291665	Is the woman in the top of the picture?	no
+1592859	02997597	Is there a scarf in the photograph?	yes
+1592859	02997593	Are the containers to the right of the boxes blue or silver?	blue
+1592859	02997472	Is the man to the right or to the left of the vehicle that looks white?	right
+2315460	11236898	Are there either any suitcases or faucets?	no
+2318747	12230600	What is the boy playing?	frisbee
+2833	01291642	Who is older, the woman or the boy?	woman
+2833	01291640	Which place is it?	road
+2833	01291649	Where is the sign?	store
+2833	01291648	The sign is where?	store
+2318747	12230700	Do the shorts have white color?	yes
+2833	01291812	Are there any cars to the right of the people by the window?	yes
+2833	01291817	Is the car to the left or to the right of the people by the window?	right
+1592859	02997495	Are the cardboard boxes in the top or in the bottom of the photo?	top
+498164	00854350	What is the penguin on?	desk
+2318747	12230620	Who is catching the frisbee?	boy
+2318747	12230623	What is the boy catching?	frisbee
+2318747	12230627	Is the person to the left of the car catching a baseball?	no
+1591776	06456523	What device is not open?	monitor
+2833	01291830	Is the boy on the left side or on the right of the photo?	left
+498164	00854348	What kind of animal is on the desk?	penguin
+2318747	12230573	Does that frisbee look blue and round?	yes
+498164	00854293	On which side is the white animal?	right
+498164	00854295	Is there either a polar bear or a penguin that is not white?	no
+1591776	06456647	What is on the wall?	monitor
+1591776	06456649	What type of device is on the wall?	monitor
+1591776	06456648	What's on the wall?	monitor
+729	121021537	Who is riding?	people
+2318602	13752627	What vehicle is on the road?	truck
+729	121021514	Are there bicycles in this picture?	no
+2833	01291850	Is the boy wearing shorts?	yes
+1159775	08205768	What is in the silver bowl?	soup
+2315460	11236748	How clean is the bus to the right of the woman?	dirty
+1159325	19100570	On which side is the keyboard, the left or the right?	right
+2318602	13752608	Is the blue truck in the bottom part or in the top of the photo?	bottom
+1159775	08205722	Does the white shirt seem to be checkered?	no
+498164	00854383	What kind of device is on the desk?	computer
+498164	00854380	Are there any phones near the device that is not turned off?	no
+2318602	13752637	What vehicle is to the right of the car?	truck
+713294	14529305	In which part is the silver car, the top or the bottom?	top
+2319013	07290784	Is the sink made of steel?	no
+498164	00854236	What color is the device near the penguin, blue or white?	blue
+2319013	07290818	Are there any trash cans near the white toilet?	no
+2319013	07290810	What color does the bucket have?	red
+2318602	13752507	What is on the pole that is not short?	street sign
+2315460	11236707	What is the color of the shirt the person is wearing?	black
+1159775	08205692	What color is the plate in the bottom part of the image?	black
+1591776	06456595	Is the laptop to the right of a man?	yes
+713294	14529327	Is the car to the left or to the right of the guy?	left
+2319013	07290697	Is it an outdoors or indoors picture?	indoors
+2318252	16181299	Do you see bicycles or parking signs there?	yes
+498164	00854210	What type of furniture is the same color as the penguin?	desk
+2318602	13752446	Are there any skateboards or traffic lights?	yes
+1159775	08205767	Is the soup in the top or in the bottom part?	bottom
+1159775	08205769	What is in the bowl?	soup
+713294	14529523	Which side is the skater on?	right
+1592859	02997501	Are the cardboard boxes to the left of the containers that look blue?	yes
+713294	14529248	Do you see an umbrella to the right of the white vehicle?	no
+2318747	12230441	On which side of the image is the house?	right
+498164	00854375	Which side of the image is the computer on?	left
+2318747	12230549	Are there any blue American flags or frisbees?	yes
+2319013	07290728	What color does the toilet brush have?	yellow
+729	121021615	Do the flowers seem to be purple?	yes
+2833	01291707	On which side is the girl?	left
+1591776	06456388	Which kind of device is to the left of the laptop?	computer mouse
+498021	03789382	Do you see words or cars?	yes
+713294	14529405	Which side of the photo is the guy on?	right
+498164	00854439	What item of furniture is it?	desk
+1159775	08205637	Is the beverage in the bottom or in the top of the picture?	bottom
+1592859	02997429	On which side of the picture is the man?	left
+713294	14529386	Is the skateboard on the left side of the image?	no
+2319013	07290700	Is the color of the toilet different than the lid?	yes
+2319013	07290706	Does the lid have a different color than the bucket?	yes
+2318602	13752364	Is the sky the same color as the truck?	yes
+729	121021550	What is the color of the sky?	gray
+729	121021582	Which side of the photo is the small boat on?	right
+713294	14529427	Is the guy to the left or to the right of the vehicle in the top?	right
+498164	00854453	Does this desk look black?	no
+2318252	16181233	Do the door and the parking sign have a different colors?	yes
+2318252	16181231	Is the color of the tree different than the color of the door?	yes
+1159775	08205613	Are there any black plates in the scene?	yes
+2315899	001645	Is the man on the right side?	yes
+2315899	001649	Who is holding the tennis racket?	man
+1592859	02997447	What is the man to the left of the fruit wearing?	scarf
+729	121021652	What is the height of the fence on the left?	short
+2833	01291683	Is there a woman to the right of the person on the road?	yes
+2833	01291740	Who is wearing a shirt?	girl
+498164	00854470	Are there any black keyboards or speakers?	yes
+2318252	16181292	Is the sky clear?	yes
+2833	01291881	Is there either a bicycle or a tennis ball in this photo?	yes

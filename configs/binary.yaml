@@ -1,0 +1,76 @@
+
+
+base_output_dir:
+  "output/run"
+reset_after:
+  4
+path_length:
+  8
+hidden_size:
+  200
+embedding_size:
+  200
+batch_size:
+  64
+beta:
+  0.2
+Lambda:
+  0.95
+learning_rate:
+  0.0001
+use_entity_embeddings:
+  1
+train_entity_embeddings:
+  0
+train_relation_embeddings:
+  0
+pretrained_entity:
+  1
+pretrained_relation:
+  1
+data_input_dir:
+  "codes/preprocessing/scenegraphs/"
+model_load_dir:
+  ""
+load_model:
+  0
+skip_training:
+  0
+total_iterations:
+  640000
+nell_evaluation:
+  0
+eval_every:
+  8000
+max_num_actions:
+  130
+negative_reward:
+  0
+num_rollouts:
+  20
+test_rollouts:
+  20
+gamma:
+  1.0
+wv_dir:
+  "data/"
+encoder_type:
+  gat
+fusion_type:
+  - transformer
+transformer_nlayers:
+  2
+dropout:
+  0.1
+
+random_start:
+  0
+
+pool:
+  max
+
+beam:
+  1
+
+classifier:
+  case0

@@ -1,0 +1,8 @@
+networkx==2.4
+numpy==1.18.1
+pandas==0.25.3
+torch==1.4.0
+tqdm==4.19.4
+tensorboardX==2.0
+PyYAML==5.3.1
+opencv-python==4.4.0.44

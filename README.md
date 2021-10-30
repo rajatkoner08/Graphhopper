@@ -80,5 +80,5 @@ or
 $ python codes/trainer.py configs/binary.yaml
 ```
 
-#Help
+## Help
 Please feel free to open an issue if you encounter trouble getting it to work.
